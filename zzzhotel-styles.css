@@ -1,0 +1,47 @@
+body{
+
+
+    margin: 0;
+
+    background-color: #8f9179;
+
+    font-family: 'Open Sans', sans-serif;
+}
+.h1{
+  text-align: center;
+  font-size: 50px;
+}
+.paragraf1{
+  color: #db27b7;
+  font-size: 30px;
+}
+.paragraf2{
+  color: #db27b7;
+  font-size: 30px;
+=
+}
+.bed{
+  margin: 50px auto;
+  width: 450px;
+
+}
+.rest{
+  margin: 50px auto;
+  width: 450px;
+}
+.footer {
+
+  padding: 2px;
+
+  background-color: #FFC122;
+
+  text-align: center;
+
+}
+
+.return {
+
+  color: #FFFFFF;
+
+  font-size: 20px;
+}
